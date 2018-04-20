@@ -6,8 +6,8 @@ def assign_variable(value)
   elephant = value
 end
 
-def argue
-
+def argue(pizza)
+  return "#{pizza}"
 end
 
 def greeting
